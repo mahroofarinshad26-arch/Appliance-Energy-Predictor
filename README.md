@@ -102,8 +102,6 @@ The application loads this trained pipeline and uses it to generate energy consu
 This project demonstrates how a Machine Learning model can be integrated into an interactive web application and deployed for practical use.
 
 
-**Mahroofa Rinshad**
-
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
